@@ -104,6 +104,7 @@ const DialogContainer = styled.div`
    transition: all 1s ease-out;
    z-index: 10;
    border-radius: 20px;
+   background: #FDFD96;
 `;
 
 const Close = styled.button`
