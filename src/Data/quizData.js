@@ -15,9 +15,9 @@ export const QuizData = [
         answer: 1
     },
     {
-        question: "What year was JavaScript launched?",
-        options: ["1996", "1995", "1994", "none of the above"],
-        answer: 2
+        question: "Which of the following keywords is used to define a variable in Javascript?",
+        options: ["var", "let", "Both A and B", "none of the above"],
+        answer: 3
     },
     {
         question: "What year was JavaScript launched?",
