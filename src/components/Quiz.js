@@ -48,6 +48,7 @@ const Options = styled.button`
     align-items: center;
     padding: 5px;
     border: none;
+    background: #fff;
 `;
 
 const Option = styled.div`
